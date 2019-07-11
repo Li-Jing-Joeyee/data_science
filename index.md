@@ -1,18 +1,43 @@
 # About myself
 
-I have two and half years experience on business analysis in financial industry, communicate with funtional team, provide business intelligent solution and design dashborad to business line. 
+I have two and half years experience on business analysis in financial industry, having strong capability on effective communicating with funtional team, providing business intelligent solution and designing dashborad to business line. 
 I am currenly seeking oppotunitie in data analytics area and aspiring to be a data scientist. 
 
 # Education
 
-SINGAPORE MANAGEMENT UNIVERSITY, Singapore Aug 2018 - Present Master of IT in Business (Data Analytics track) • Academic standing: Good standing  
- 
- •  
- NANYANG TECHNOLOGICAL UNIVERSITY – Singapore  Aug 2013 - Jan 2016 Bachelor of Engineering (Electrical & Electronic Engineering) • Specialization in Information System                          • Accelerated in 2.5 years and achieve Second Class (Upper) Honours 
- NANYANG POLYTECHNIC – Singapore  Apr 2009 - Apr 2012 Diploma in Electronic, Computer and Communication • Specialization in Wireless Communication         
-### Working experience 
+**SINGAPORE MANAGEMENT UNIVERSITY**, Singapore Aug 2018 - Present 
 
-### Analytics Projects
+- Master of IT in Business (Data Analytics track) • Academic standing: Good standing  
+
+**NANYANG TECHNOLOGICAL UNIVERSITY**, Singapore  Aug 2013 - Jan 2016 
+
+- Bachelor of Engineering (Electrical & Electronic Engineering), specialization in Information System
+
+- Accelerated in 2.5 years and achieve Second Class (Upper) Honours 
+        
+### Working experience 
+**CREDIT AGRICOLE CORPORATE & INVESTMENT BANK**, Singapore        Aug 2016 - Aug 2018 
+_Business Analyst (Market Risk)_
+- Built strong working relationships with cross functional teams in Paris to fully understand business requirements
+- Translated stakeholders’ business requirement into tangible deliverables such as functional specifications, use cases, process diagrams and data model diagrams
+- Provided and improved BI solutions to existing systems to optimize the performance
+- Write complex SQL queries to extract large data from Hadoop and use statistical methodologies to gain deep insights
+- Analyzed market risk data in OLAP cube and generate report to meet requirements from business line
+- Developed testing strategies and conducted multi-level tests to verify stakeholder’s requirements are fully met
+- Presented insights to project manager and cross functional teams
+- Responsible for cost estimation and timelines for various Business Intelligence reports to deliver project in time
+ Leaded and worked independently on small projects from scope definition through to execution and implementation
+
+**SOPRA STERIA GROUP SA**, Singapore Mar 2016 - Aug 2016 
+_Business analyst_
+- Organized meetings with clients to understand their business processes and change requirements
+- Identified and documented detailed business requirements and functional specification
+- Presented application solution and development progress to clients to ensure the project is on track
+- Supported development team with business insight, translating between the technical and non-technical
+- Responsible for change management to ensure product documentation, including user guides, implementation guides and product information, are maintained and up to date
+- Responsible for overall coordination of UAT, regression, and performance testing as well as user training 
+
+# Analytics Projects
 [project 1](https://github.com/Li-Jing-Joeyee/data_science/edit/master/index.md)
 
 You can use the [editor on GitHub](https://github.com/Li-Jing-Joeyee/data_science/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
