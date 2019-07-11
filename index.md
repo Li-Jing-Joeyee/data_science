@@ -37,7 +37,7 @@ _Business analyst_
 
 ## Analytics Projects
 ### Visual Analytics
-[Funnel plot for relationship between return order and total order](https://github.com/Li-Jing-Joeyee/data_science/edit/master/index.md)
+[Funnel plot for relationship between return order and total order](https://github.com/Li-Jing-Joeyee/data_science/edit/master/funnel_plot.md)
 ### Customer Analytics 
 
 
