@@ -1,8 +1,10 @@
-## About myself
+# About myself
 
-I have two and half years experience on business analysis in financial industry, communicate with funtional team, provide business intelligent solution and design dashborad to business line. I am currenly seeking oppotunitie in data analytics area and aspiring to be a data scientist. 
+I have two and half years experience on business analysis in financial industry, communicate with funtional team, provide business intelligent solution and design dashborad to business line. 
+I am currenly seeking oppotunitie in data analytics area and aspiring to be a data scientist. 
 
-## Education
+# Education
+
 SINGAPORE MANAGEMENT UNIVERSITY, Singapore Aug 2018 - Present Master of IT in Business (Data Analytics track) • Academic standing: Good standing  
  
  •  
