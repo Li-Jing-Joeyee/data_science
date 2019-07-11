@@ -6,13 +6,9 @@ I am currenly seeking oppotunitie in data analytics area and aspiring to be a da
 # Education
 
 **SINGAPORE MANAGEMENT UNIVERSITY**, Singapore Aug 2018 - Present 
-
 - Master of IT in Business (Data Analytics track) • Academic standing: Good standing  
-
 **NANYANG TECHNOLOGICAL UNIVERSITY**, Singapore  Aug 2013 - Jan 2016 
-
 - Bachelor of Engineering (Electrical & Electronic Engineering), specialization in Information System
-
 - Accelerated in 2.5 years and achieve Second Class (Upper) Honours 
         
 ### Working experience 
