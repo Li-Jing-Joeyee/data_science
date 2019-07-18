@@ -1,7 +1,8 @@
 ## About myself
 
 I have two and half years experience on business analysis in financial industry, having strong capability on effective communicating with funtional team, providing business intelligent solution and designing dashborad to business line. 
-I am currenly seeking oppotunitie in data analytics area and aspiring to be a data scientist. 
+
+I am currently studying in Singapore Management University with the master degree of Data analytics and have hands-on experience in analytics projects in differernt analyics area such as visual analytics, social analytics, text analytics and customer analytics. Furthermore, I am familiar with the analysis tools such as Tableau, JMP Pro 14, SQL, Python and R. I am currenly seeking oppotunitie in data analytics area and aspiring to be a data scientist. 
 
 ## Education
 **SINGAPORE MANAGEMENT UNIVERSITY**, Singapore, Aug 2018 - Present 
